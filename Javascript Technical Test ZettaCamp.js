@@ -8,4 +8,5 @@ function result(number) {
   return [odds, evens];
 }
 
+
 console.log(result(number));
